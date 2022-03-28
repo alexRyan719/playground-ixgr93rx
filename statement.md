@@ -1,19 +1,19 @@
-# Welcome!
-
-This C++ template lets you get started quickly with a simple one-page playground.
-
-```C++ runnable
 #include <iostream>
 
-using namespace std;
+using std::cout;
+using std::endl;
+//using namespace std;
 
-int main() 
-{
+// int for_loop(int n) {
+//     for( i = 0; i < n: i++){
+//         cout << "Index is: " << i << endl;
+//     }
+
+//     return 0;
+// }
+
+
+int main() {
     cout << "Hello, World!";
     return 0;
 }
-```
-
-# Advanced usage
-
-If you want a more complex example (external libraries, viewers...), use the [Advanced C++ template](https://tech.io/select-repo/598)
