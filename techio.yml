@@ -1,4 +1,6 @@
-ititle: Beginner C++ Concepts
+ititle: Beginner C++ Concepts  
 plan:
 - title: C++ Snippet
   statement: statement.md
+- title: C++ Snippet++
+  statement: statement_2.md
