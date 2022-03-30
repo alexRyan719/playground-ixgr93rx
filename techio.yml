@@ -5,10 +5,10 @@ plan:
 - title: Comments
   statement: statement_2.md
 - title: Primitive Variables
-  statement: statement_2.md
+  statement: statement_3.md
 - title: Control Flow
-  statement: statement_2.md
+  statement: statement_4.md
 - title: Loops
-  statement: statement_2.md
+  statement: statement_5.md
 - title: Recursion
-  statement: statement_2.md
+  statement: statement_6.md
