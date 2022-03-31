@@ -14,6 +14,6 @@ plan:
   statement: statement_6.md
 
 projects:
-  python:
+  cpp:
     root: ./
-    runner: cmake
+    runner: cmake-gcc-runner
