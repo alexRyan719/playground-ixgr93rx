@@ -4,7 +4,7 @@
   communicating with other users of your code, and self notes. By self notes, I mean both psuedocode for the rough draft of code and notes made during the coding 
   process. 
   
-<!-- @[Try it out!]({"stubs": ["hello_world.cpp"], "command": "cmake-gcc-runner hello_world.cpp"}) -->
+<!-- @[Try it out!]({"stubs": ["hello_world.cpp"], "command": "make hello_world.cpp"}) -->
 
     
     #include <iostream>
