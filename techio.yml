@@ -12,6 +12,11 @@ plan:
   statement: statement_5.md
 - title: Recursion
   statement: statement_6.md
+- title: Data Structures
+  statement: statement_7.md
+- title: Example Algorithms
+  statement: statement_8.md
+
 
 projects:
   cpp:
