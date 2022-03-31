@@ -12,3 +12,8 @@ plan:
   statement: statement_5.md
 - title: Recursion
   statement: statement_6.md
+
+projects:
+  python:
+    root: ./
+    runner: python:3
