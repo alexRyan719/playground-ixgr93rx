@@ -16,4 +16,4 @@ plan:
 projects:
   python:
     root: ./
-    runner: python:3
+    runner: cmake
