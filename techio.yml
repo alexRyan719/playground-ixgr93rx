@@ -21,4 +21,4 @@ plan:
 projects:
   cpp:
     root: ./
-    runner: cmake-gcc-runner
+    runner: cmake
