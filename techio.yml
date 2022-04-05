@@ -20,5 +20,5 @@ plan:
 
 projects:
      cpp:
-    root: ./
+      root: ./
     runner: cpp:cmake-gcc-runner:1.1.0-gcc-7.1
