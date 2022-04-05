@@ -19,6 +19,6 @@ plan:
 
 
 projects:
-  cpp:
+     cpp:
     root: ./
-    runner: techio/cmake-gcc-runner:1.1.0-gcc-7.1
+    runner: cpp:cmake-gcc-runner:1.1.0-gcc-7.1
