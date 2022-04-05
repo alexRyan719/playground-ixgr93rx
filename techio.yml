@@ -17,8 +17,12 @@ plan:
 - title: Example Algorithms
   statement: statement_8.md
 
-
 projects:
-     cpp:
-      root: ./
+  cpp:
+    root: ./
     runner: cpp:cmake-gcc-runner:1.1.0-gcc-7.1
+
+# projects:
+#      cpp:
+#       root: ./
+#     runner: cpp:cmake-gcc-runner:1.1.0-gcc-7.1
