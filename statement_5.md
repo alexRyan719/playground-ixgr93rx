@@ -1,9 +1,17 @@
-#include
-
-using std::cout; using std::endl; //using namespace std;
-
-// int for_loop(int n) { // for( i = 0; i < n: i++){ // cout << "Index is: " << i << endl; // }
-
-// return 0; // }
-
-int main() { cout << "Hello, Second Page!"; return 0; }
+# Control Flow
+    
+    if(score >= 90) {
+        return 'A';
+    }
+    else if(score >= 80) {
+        return 'B';
+    }
+    else if(score >= 70) {
+        return 'C';
+    }
+    else if(score >= 60) {
+        return 'D';
+    }
+    else{
+        return 'F';
+    }
