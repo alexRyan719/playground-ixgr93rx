@@ -25,7 +25,7 @@ plan:
 
 projects:
   cpp:
-    root: /
+    root: .
     runner:
       name: techio/cmake-gcc-runner
       version: latest
