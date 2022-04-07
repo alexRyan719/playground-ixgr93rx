@@ -23,6 +23,13 @@ plan:
 - title: Debugging
   statement: statement_10.md
 
+projects:
+  cpp:
+    root: ./
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+
 # projects:
 #   cpp:
 #     root: ./
