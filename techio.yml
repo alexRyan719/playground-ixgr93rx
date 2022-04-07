@@ -26,9 +26,16 @@ plan:
 projects:
   cpp:
     root: /cpp_files
-    runner:
-      name: techio/cmake-gcc-runner
-      version: latest
+    runner: techio/cmake-gcc-runner:1.1.0-gcc-7.1
+#       name: techio/cmake-gcc-runner
+#       version: latest
+
+# projects:
+#   cpp:
+#     root: /cpp_files
+#     runner:
+#       name: techio/cmake-gcc-runner
+#       version: latest
 
 # projects:
 #   cpp:
