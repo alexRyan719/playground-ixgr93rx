@@ -5,7 +5,7 @@ should use a for loop. If you want the loop to be scalable for varying sizes / i
 THEN a loop, use a do while loop. However, do while loops might not exist in other languages. There are ways to simulate a do while loop, as well as 
 simulate any type of loop (and even recursion) with the other types.  
 
-@[Try to adjust the sizes of these loops!]({"stubs": ["/cpp_project/loops.cpp"], "command": "sh /project/target/run_ge.sh"})
+@[Try to adjust the sizes of these loops!]({"stubs": ["/cpp_files/loops.cpp"], "command": "sh /project/target/run_ge.sh"})
 
 
 
